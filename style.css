@@ -1,0 +1,96 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sectionOne{
+    display: flex;
+    padding: 50px;
+    margin-left: 300px;
+   
+}
+
+.sectionOne img{
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+}
+
+
+.bruce{
+    width: 350px;
+    height: 15px;
+    padding: 20px;
+    text-align: left;
+    font-size: 20px;
+    
+  }
+
+.bruce h1{
+    color: red;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    
+}
+  
+.bruce p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+ 
+ }
+
+
+ button{
+    margin: 20px;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 175, 23);
+    height: 40px;
+    width: 100px;
+    color: white;
+    font-size: 15px;
+ }
+
+ .bruce3 h1{
+    padding: 60px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.9rem;
+    color: #0059df;
+ }
+
+ .sectionTwo .imagess img{
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    margin-left: 117px;
+
+ }
+   
+    
+.sectionTwo .bruce0{
+    padding: 26px;
+    display: flex;
+    margin-top: -50px;
+    margin-right: 10px;
+    margin-left: 90px;
+    font-size: 1.2rem;
+    column-gap: 150px;
+    
+   
+ }
+
+ 
+.bruce2{
+    text-align: center;
+     word-spacing: 23rem;
+     margin-top: -50px;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+   
