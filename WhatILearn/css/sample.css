@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    
+}
+header{
+    padding: 1rem;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+header ul{
+    display: flex;
+    gap: 3rem;
+   
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    padding-top: 200px;
+    background-color: rgb(4, 161, 56);
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: beige;
+}
+
+a:hover{
+    color: rgb(255, 15, 15);
+}
+
+h1{
+    font-size: 7rem;
+    color: rgb(255, 255, 255);
+    
+}
+
+h3{
+    font-size: 1.8rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(214, 212, 212);
+  
+   
+}
+
+p{
+    font-size: 20px;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+article{
+    padding: 0.5rem;
+    background-color: rgb(0, 0, 0);
+}
+
+article h1{
+    font-size: 2.5rem;
+    text-align: center;
+    
+}
+.wrapper{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    padding-top: 100px;
+    background-color: rgb(4, 161, 56);
+    
+}
+
+.wrapper p{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.second{
+    margin-top: -500px;
+}
+
+.wrapper2 p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
